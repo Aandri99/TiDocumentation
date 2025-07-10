@@ -13,6 +13,8 @@ Gen 2
     GEN2/125-14_Gen2/top.rst
     GEN2/125-14_Gen2_Pro/top.rst
     GEN2/125-14_Gen2_Z7020_Pro/top.rst
+    GEN2/65-16_TI/top.rst 
+    GEN2/125-14_TI/top.rst  
     GEN2/compares/vs.rst
     GEN2/known_hw_issues/known_hw_issues.rst
 
