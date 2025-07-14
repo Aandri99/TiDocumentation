@@ -8,7 +8,7 @@ Product comparison table (Gen 2)
     Looking for a product comparison table for Gen 1? Check the :ref:`Gen 1 product comparison table <rp-board-comp-gen1>`.
 
 .. table::
-    :widths: 10 30 30 30 30 30 30
+    :widths: 20 30 30 30 30 30 30
     :align: center
 
 +-------------------------------------------+----------------------------------+---------------------------------+---------------------------------+---------------------------------+----------------------------------+-----------------------------------+
